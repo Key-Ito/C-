@@ -1,0 +1,15 @@
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\bin\Debug\net6.0\Semirar1.exe
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\bin\Debug\net6.0\Semirar1.deps.json
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\bin\Debug\net6.0\Semirar1.runtimeconfig.json
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\bin\Debug\net6.0\Semirar1.dll
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\bin\Debug\net6.0\Semirar1.pdb
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.csproj.AssemblyReference.cache
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.AssemblyInfoInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.AssemblyInfo.cs
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.csproj.CoreCompileInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.dll
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\refint\Semirar1.dll
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.pdb
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\Semirar1.genruntimeconfig.cache
+C:\Users\as.baev\Desktop\гит\C#\Semirar1\obj\Debug\net6.0\ref\Semirar1.dll
