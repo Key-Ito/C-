@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\Semirar1\\HW\\HW.csproj": {}
+    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Semirar1\\HW\\HW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\Semirar1\\HW\\HW.csproj": {
+    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Semirar1\\HW\\HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\Semirar1\\HW\\HW.csproj",
+        "projectUniqueName": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Semirar1\\HW\\HW.csproj",
         "projectName": "HW",
-        "projectPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\Semirar1\\HW\\HW.csproj",
+        "projectPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Semirar1\\HW\\HW.csproj",
         "packagesPath": "C:\\Users\\as.baev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\Semirar1\\HW\\obj\\",
+        "outputPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Semirar1\\HW\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\as.baev\\AppData\\Roaming\\NuGet\\NuGet.Config"
