@@ -1,0 +1,15 @@
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.csproj.AssemblyReference.cache
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.AssemblyInfoInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.AssemblyInfo.cs
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.csproj.CoreCompileInputs.cache
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\bin\Debug\net6.0\ex007magic.exe
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\bin\Debug\net6.0\ex007magic.deps.json
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\bin\Debug\net6.0\ex007magic.runtimeconfig.json
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\bin\Debug\net6.0\ex007magic.dll
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\bin\Debug\net6.0\ex007magic.pdb
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.dll
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\refint\ex007magic.dll
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.pdb
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ex007magic.genruntimeconfig.cache
+C:\Users\as.baev\Desktop\гит\C#\ex007magic\obj\Debug\net6.0\ref\ex007magic.dll
