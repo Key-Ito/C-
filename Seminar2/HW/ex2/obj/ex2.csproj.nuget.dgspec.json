@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj": {}
+    "C:\\Users\\czar&bog\\Desktop\\Learning IT\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj": {
+    "C:\\Users\\czar&bog\\Desktop\\Learning IT\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj",
+        "projectUniqueName": "C:\\Users\\czar&bog\\Desktop\\Learning IT\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj",
         "projectName": "ex2",
-        "projectPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj",
-        "packagesPath": "C:\\Users\\as.baev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\as.baev\\Desktop\\гит\\C#\\C-\\Seminar2\\HW\\ex2\\obj\\",
+        "projectPath": "C:\\Users\\czar&bog\\Desktop\\Learning IT\\C#\\C-\\Seminar2\\HW\\ex2\\ex2.csproj",
+        "packagesPath": "C:\\Users\\czar&bog\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\czar&bog\\Desktop\\Learning IT\\C#\\C-\\Seminar2\\HW\\ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\as.baev\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\czar&bog\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
