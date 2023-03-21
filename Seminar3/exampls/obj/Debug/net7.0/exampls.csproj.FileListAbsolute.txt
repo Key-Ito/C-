@@ -1,0 +1,15 @@
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\bin\Debug\net7.0\exampls.exe
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\bin\Debug\net7.0\exampls.deps.json
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\bin\Debug\net7.0\exampls.runtimeconfig.json
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\bin\Debug\net7.0\exampls.dll
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\bin\Debug\net7.0\exampls.pdb
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.csproj.AssemblyReference.cache
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.AssemblyInfoInputs.cache
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.AssemblyInfo.cs
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.csproj.CoreCompileInputs.cache
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.dll
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\refint\exampls.dll
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.pdb
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\exampls.genruntimeconfig.cache
+C:\Users\czar&bog\Desktop\Learning IT\C#\C-\Seminar3\exampls\obj\Debug\net7.0\ref\exampls.dll
