@@ -131,7 +131,6 @@ void PrintArray (int [] array) // функция которая печатате
     {
         Console.Write ($"{array[i]} ");
     }
-
     Console.WriteLine ();
 }
 
